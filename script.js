@@ -129,7 +129,9 @@ $("#next").click(function() {
     } else if (document.getElementById('question').value == '-----') {
         sentence = sentence + '0';
         document.getElementById('question').value = '';
-    }
+    } else {
+        console.log('Error');
+    };
 });
 
 $('#done').click(function() {
