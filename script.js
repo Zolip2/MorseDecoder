@@ -36,7 +36,7 @@ $("#next").click(function() {
     } else if (document.getElementById('question').value == '-.-') {
         sentence = sentence + 'k';
         document.getElementById('question').value = '';
-    } else if (document.getElementById('question').value == '..-.') {
+    } else if (document.getElementById('question').value == '.-..') {
         sentence = sentence + 'l';
         document.getElementById('question').value = '';
     } else if (document.getElementById('question').value == '--') {
