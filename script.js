@@ -301,5 +301,9 @@ $('#újra').click(function() {
     document.getElementById("kérdés").value = '';
 })
 
+$('#trainer-button').click(function() {
+    window.location.href = "trainer/index.html";
+})
+
 
 

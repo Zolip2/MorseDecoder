@@ -11,3 +11,11 @@ input {
 #m {
     display: block;
 }
+
+#trainer-button {
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-weight: bolder;
+}
