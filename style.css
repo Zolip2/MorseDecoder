@@ -6,6 +6,8 @@
 
 input {
     height: 50px;
+    background-color: rgb(151, 151, 151);
+    color: white;
 }
 
 #m {
@@ -18,4 +20,17 @@ input {
     width: 100px;
     font-size: large;
     font-weight: bolder;
+    background-color: rgb(151, 151, 151);
+}
+
+a {
+    color: white;
+    font-size: larger;
+}
+
+body {
+    background-color: gray;
+}
+button {
+    background-color: rgb(151, 151, 151);
 }
